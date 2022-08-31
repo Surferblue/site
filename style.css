@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444444;
+}
+
+h1 {
+  width: 300px;
+  margin: 0 auto 8px;
+  font-family: "Oswald", serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 64px;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 49px;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.content p {
+    height: 1350px;
+    background-image: url(img/bricks.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: "Oswald", serif;
+    font-size: 30px;
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #000;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+  font-size: 20px;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
