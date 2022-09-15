@@ -25,7 +25,7 @@ h1 {
 }
 
 .content p {
-    height: 1350px;
+    height: 250px;
     background-image: url(img/bricks.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -33,16 +33,21 @@ h1 {
     background-size: cover;
     color: #ffffff;
     font-family: "Oswald", serif;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 1.5;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
+.carousel slide {
+    width: 100px;
+    height: 100px;
+}
+
 .site-footer {
-  min-width: 550px;
-  background-color: #000;
-  color: #ffffff;
+    min-width: 550px;
+    background-color: #000;
+    color: #ffffff;
 }
 
 .site-footer .container {
