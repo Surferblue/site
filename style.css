@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+  display: flex;
   width: 300px;
   margin: 0 auto 8px;
   font-family: "Oswald", serif;
@@ -19,6 +20,7 @@ h1 {
 }
 
 .site-header {
+  display: flex;
   min-width: 550px;
   height: 49px;
   color: #ffffff;
