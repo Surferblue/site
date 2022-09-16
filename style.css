@@ -5,6 +5,14 @@ body {
   color: #444444;
 }
 
+.site-header {
+  display: flex;
+  min-width: 550px;
+  height: 49px;
+  color: #ffffff;
+  background-color: #000000;
+}
+
 h1 {
   display: flex;
   width: 300px;
@@ -14,14 +22,6 @@ h1 {
   font-weight: normal;
   font-size: 46px;
   line-height: 64px;
-}
-
-.site-header {
-  display: flex;
-  min-width: 550px;
-  height: 49px;
-  color: #ffffff;
-  background-color: #000000;
 }
 
 .content p {
